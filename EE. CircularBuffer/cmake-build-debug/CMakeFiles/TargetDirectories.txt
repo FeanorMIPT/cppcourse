@@ -1,0 +1,3 @@
+C:/Users/Feanor/CLionProjects/EE. CircularBuffer/cmake-build-debug/CMakeFiles/CircularBuffer.dir
+C:/Users/Feanor/CLionProjects/EE. CircularBuffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Feanor/CLionProjects/EE. CircularBuffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
