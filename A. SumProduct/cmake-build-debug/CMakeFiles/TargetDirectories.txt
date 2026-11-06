@@ -1,3 +1,0 @@
-C:/Users/Feanor/CLionProjects/A. SumProduct/cmake-build-debug/CMakeFiles/SumProduct.dir
-C:/Users/Feanor/CLionProjects/A. SumProduct/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Feanor/CLionProjects/A. SumProduct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

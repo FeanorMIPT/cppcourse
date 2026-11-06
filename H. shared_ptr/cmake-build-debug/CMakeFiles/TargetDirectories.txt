@@ -1,3 +1,0 @@
-C:/Users/Feanor/Desktop/github/H. shared_ptr/cmake-build-debug/CMakeFiles/shared_ptr.dir
-C:/Users/Feanor/Desktop/github/H. shared_ptr/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Feanor/Desktop/github/H. shared_ptr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

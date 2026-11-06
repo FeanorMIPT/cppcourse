@@ -1,3 +1,0 @@
-C:/Users/Feanor/CLionProjects/AA. stack/cmake-build-debug/CMakeFiles/stack.dir
-C:/Users/Feanor/CLionProjects/AA. stack/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Feanor/CLionProjects/AA. stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
